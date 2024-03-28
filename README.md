@@ -1,2 +1,2 @@
 # designs
-marketin
+marketing
